@@ -1,3 +1,5 @@
+https://media.licdn.com/dms/image/v2/D5616AQEAYth_DFPdzg/profile-displaybackgroundimage-shrink_350_1400/B56Zz7rR0kH0Ac-/0/1773748953528?e=1777507200&v=beta&t=erItIljNQPXc1csmfPOyrQIrklgFYRqWAcnrmPufcfY
+
 
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">I am a frontend developer from Bangladesh.</h3>
