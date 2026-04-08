@@ -1,6 +1,7 @@
-### Hi there 👋, Hi 👋, I'm Nazrul Islam
-#### I am a frontend developer.
+
 ![I am a frontend developer.](https://media.licdn.com/dms/image/v2/D5616AQEAYth_DFPdzg/profile-displaybackgroundimage-shrink_350_1400/B56Zz7rR0kH0Ac-/0/1773748953528?e=1777507200&v=beta&t=erItIljNQPXc1csmfPOyrQIrklgFYRqWAcnrmPufcfY)
+### Hi there 👋, Hi 👋, I'm Nazrul Islam
+### I am a frontend developer.
 
 Frontend Developer | Passionate about creating scalable and thoughtfully designed web applications while actively learning and building real-world projects.
 
