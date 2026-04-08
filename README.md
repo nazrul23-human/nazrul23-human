@@ -1,11 +1,6 @@
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d58aea75-70c8-4714-ad66-abf5db508178" />
-## Hi there 👋
 
-**nazrul23-human/nazrul23-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFF2FF&background=2C409ADC&width=420&lines=Hello%2C++Nice+to+meet+you.;+I+am+Nazrul+Islam" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">I am a frontend developer from Bangladesh.</h3>
 
