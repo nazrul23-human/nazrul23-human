@@ -1,4 +1,5 @@
-https://media.licdn.com/dms/image/v2/D5616AQEAYth_DFPdzg/profile-displaybackgroundimage-shrink_350_1400/B56Zz7rR0kH0Ac-/0/1773748953528?e=1777507200&v=beta&t=erItIljNQPXc1csmfPOyrQIrklgFYRqWAcnrmPufcfY
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/f75b9bb0-35dc-48f8-94d2-71b108065777" />
+
 
 
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
