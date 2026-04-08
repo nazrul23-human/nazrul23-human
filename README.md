@@ -1,4 +1,6 @@
 
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d2263407-bb46-4070-87d6-1ffec7004dff" />
+
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">I am a frontend developer from Bangladesh.</h3>
 
